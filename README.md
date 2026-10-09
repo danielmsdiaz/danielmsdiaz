@@ -1,6 +1,6 @@
 ## Hello, world! 👋 I'm Daniel Diaz
 
-I'm a Front-end Developer from Brazil 🇧🇷, currently expanding my experience in Full Stack Development.
+I'm a Fullstack Developer from Brazil 🇧🇷, currently expanding my experience in Full Stack Development.
 
 I enjoy building responsive web applications, integrating APIs and developing solutions that improve user experience and automate business processes.
 
