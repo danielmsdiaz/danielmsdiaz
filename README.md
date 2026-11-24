@@ -1,33 +1,29 @@
-## Hello, world! 👋 I'm Daniel Diaz
 
-I'm a Fullstack Developer from Brazil 🇧🇷, currently expanding my experience in Full Stack Development.
+# Daniel Diaz
 
-I enjoy building responsive web applications, integrating APIs and developing solutions that improve user experience and automate business processes.
+**Software Engineer · Brazil**
 
-### Technologies
+[Portfolio](https://danielmsdiaz-portfolio.vercel.app) · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:dmachadosdiaz@gmail.com)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,java,php,postgres,mysql,mongodb,docker,git" />
-</p>
+---
 
-### Currently working with
+Software engineer building digital products across telecommunications, e-commerce and artificial intelligence.
 
-- React, TypeScript and Next.js
-- Node.js and REST APIs
-- PostgreSQL, MySQL and MongoDB
-- Docker, Git and CI/CD
-- Payment and real-time integrations
+Experienced in developing production applications, real-time communication systems, payment integrations and AI-powered solutions, with a growing focus on software architecture, cloud infrastructure and agentic workflows.
 
-### Connect with me
+## Engineering stack
 
-<p>
-  <a href="COLOQUE-SEU-LINKEDIN-AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:dmachadosdiaz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://danielmsdiaz-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+| Domain | Technologies |
+| :--- | :--- |
+| Languages | TypeScript, JavaScript, Python, Java, SQL |
+| Frontend | React, Next.js, Tailwind CSS |
+| Backend | Node.js, Express, Spring Boot |
+| Data | PostgreSQL, MySQL, MongoDB |
+| Infrastructure | Docker, AWS, GitHub Actions, CI/CD |
+| Integration | REST APIs, WebSockets, RabbitMQ, Stripe |
+| AI Engineering | LLMs, MCP, RAG, AI Agents |
+| Testing | Playwright, Vitest, Jest |
+
+## Current focus
+
+`System Design` `Distributed Systems` `Cloud Engineering` `Agentic AI` `Developer Automation`
